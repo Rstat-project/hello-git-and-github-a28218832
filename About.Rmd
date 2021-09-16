@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: "My name"
+author: 于治維
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-NULL
+中華台北
 
 - 我決定來這裡的動機？
 
-NULL
+為了夢想 為了三餐 為了養家餬口
 
 - 我對這門課的期望？
 
-NULL
+讓我畢業XD 然後學到的工具可以用在現在的大專生研究計畫
